@@ -1,0 +1,3 @@
+rootProject.name = 'authV2'
+
+include ':app'
